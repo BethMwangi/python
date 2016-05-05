@@ -36,4 +36,4 @@ def compare(a,b):
     else:
         return ("Wrong input, kindly choose either rock, paper or scissors to play")
         sys.exit()
-print (compare(player1_ans, player2_ans)
+print (compare(player1_ans, player2_ans))

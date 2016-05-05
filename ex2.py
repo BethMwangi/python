@@ -13,7 +13,17 @@ def divide(x, y): #function that divides one variable with the other
     
 def subtract (x, y):
     print "subtract %d - %d" %(x, y)
-    return a / b
+    return x/ y
+    
+print "Let start doing some cool stuff in maths"
+
+goats =add (90, 70)
+hens =subtract (80,6)
+dogs = multiply (6, 4)
+croilers = divide(6, 2)
+
+print "goats: %d, hens: %d, dogs: %d, croilers: %d" % (goats, hens, dogs, croilers)
+
     
 
      
