@@ -14,6 +14,9 @@ if people < dogs:
     
 if people > dogs:
     print "the world is dry"
+
+if people != dogs:
+   print "what a shame!"
     
     
 dogs += 5
