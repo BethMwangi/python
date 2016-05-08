@@ -17,6 +17,9 @@ if people > dogs:
 
 if people != dogs:
    print "what a shame!"
+   
+if people == cats:
+    print "That is a problem"
     
     
 dogs += 5
