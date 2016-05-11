@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+class Animal(object):
+    pass
+   
+#dog is an instance of Animal class
+   
+
