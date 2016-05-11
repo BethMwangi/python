@@ -1,0 +1,20 @@
+#!/usr/bin/python
+
+details = {'school':'Fountain', 'location':'karen', 'address':59}
+print details['school']
+#prints Fountain
+print details['location']
+#karen
+print detais['address']
+
+details['city'] = "Nairobi"
+print details['city']
+#Nairobi
+
+
+#adding new things to the dictionary
+details[1] = "cool"
+details[-2]= "main"
+print details[1]
+print details[-2]
+print details
